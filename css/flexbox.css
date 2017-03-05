@@ -13,10 +13,8 @@
 
 .flex-item {
   padding: 5px;
-  width: 100px;
-  height: 100px;
+  min-width: 200px;
   margin-top: 10px;
-  line-height: 100px;
   color: white;
   font-weight: bold;
   font-size: 3em;

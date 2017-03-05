@@ -39,8 +39,6 @@ class LiquidGauge extends Component {
                 offset: '100%'
             }
         ];
-
-        let svgImg = '<image xlink:href="./images/icons/angular.png" x="0" y="0" height="100" width="100" />';
  
         return (
             <div>
@@ -66,9 +64,8 @@ class LiquidGauge extends Component {
  
                         return (
                             <tspan>
-                                <tspan className="value" x="0" dy="0" style={valueStyle}>{value/10}</tspan>
-                                <tspan x="0" dy="15" style={percentStyle}>
-                                	{svgImg}   
+                                <tspan className="value" style={valueStyle}>{value/10}</tspan>
+                                <tspan style={percentStyle}>
                                 </tspan>
                             </tspan>
                         );

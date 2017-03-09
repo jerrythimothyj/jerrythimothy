@@ -1,0 +1,225 @@
+{
+	"projects": [
+		{
+			"type": "INDUSTRIAL PROJECTS",
+			"projects": [
+				{
+					"company": "Tata Consultancy Services Limited",
+					"projects": [
+						{
+							"title": "DLSW",
+							"description": "Digital Leader Standard Work enables organizations to manage and organize meetings and sessions in a Leader Standard and in a Lean way.",
+							"technologies": [
+								"Angular 1.5.8",
+								"HTML5/CSS3/Bootstrap 3",
+								"Javascript ES6/Karma - Jasmine",
+								"Rails 4.2/MySQL 5.0.27"
+							],
+							"duration": {
+								"years": 1,
+								"months": 3
+							},
+							"role": "Development Team: Development of Front End, write Unit Tests and Deploy in the production environment.",
+							"team_strength": 7,
+							"client": "A Global Consulting Firm, US. Enterprise Website that can be used by all organizations.",
+							"others": "Periodical Client meeting."
+						},
+						{
+							"title": "OEI",
+							"description": "Operational Excellence Index helps manufacturing industries to assess each employee’s performance based on different criteria.",
+							"technologies": [
+								"Angular 1.5.4",
+								"Jade/HTML5/CSS3/Bootstrap 3",
+								"Javascript ES6/Karma - Jasmine",
+								"Rails 4.2/MySQL 5.0.27"
+							],
+							"duration": {
+								"years": 0,
+								"months": 8
+							},
+							"role": "Development Team: Development of Front End, write Unit Tests and Deploy in the production environment.",
+							"team_strength": 7,
+							"client": "A Global Consulting Firm, US. Enterprise Website that can be used by all organizations.",
+							"others": "Periodical Client meeting."
+						}
+				]
+				},
+				{
+					"company": "Adela Software & Services",
+					"projects": [
+						{
+							"title": "OnLine Taxes (olt.com)",
+							"description": "OnLine Taxes provides federal and state online tax preparation and electronic filing for individual taxpayers across United States of America.",
+							"technologies": [
+								"Angular 1.5.4",
+								"HTML5/CSS3/Bootstrap 3",
+								"Javascript 1.8",
+								"PHP 5.6.10",
+								"SQL Server 2014"
+							],
+							"duration": {
+								"years": 3,
+								"months": 8
+							},
+							"role": "Maintenance Team: Maintaining existing project and develop new modules. R & D Team: Requirement analysis, Develop prototypes and common modules.",
+							"team_strength": 9,
+							"client": "US citizens and preparers. Interacted with Customer Support at US.",
+							"others": "Managed a junior team of 7. Took sessions on latest Web UI trends."
+						},
+						{
+							"title": "OnLine Taxes Desktop",
+							"description": "OnLine Taxes Desktop is a desktop version of olt.com which provides federal and state tax preparation and electronic filing for individual taxpayers across United States of America.",
+							"technologies": [
+								"C# Forms ( Dotnet Framework 2.0 )",
+								"XML 1.0"
+							],
+							"duration": {
+								"years": 2,
+								"months": 0
+							},
+							"role": "Maintenance Team: Maintaining existing project and develop new modules.",
+							"team_strength": 9,
+							"client": "US citizens and preparers. Interacted with Customer Support at US.",
+							"others": "Used to develop large enhancements."
+						},
+						{
+							"title": "Karatbars (karatbars.com)",
+							"description": "Karatbars International GmbH specializes in the sale of small 999.9 pure gold bars and gift items. They are the best gold affiliate marketing company in the world. It is a Germany based company. It involves 15 different European languages.",
+							"technologies": [
+								"PHP 5.3.28",
+								"HTML4/HTML5",
+								"CSS2/CSS3",
+								"Javascript 1.8",
+								"JQuery 1.7",
+								"MySQL 5.0.95"
+							],
+							"duration": {
+								"years": 0,
+								"months": 6
+							},
+							"role": "Maintenance Team: Maintaining existing project and develop new modules. Development Team: Develop the existing project with latest version of technologies.",
+							"team_strength": 3,
+							"client": "Karatbars Inc., Germany. Interacted with clients and German developers.",
+							"others": "Implemented 15 European languages."
+						},
+						{
+							"title": "Social Surveyor (socialsurveyor.com)",
+							"description": "Social Surveyor makes software to help organizations create and manage their online marketing campaigns.",
+							"technologies": [
+								"PHP 5.3.28",
+								"HTML4/HTML5",
+								"CSS2/CSS3",
+								"JQuery 1.7",
+								"MySQL 5.0.95",
+								"Social Network API’s"
+							],
+							"duration": {
+								"years": 0,
+								"months": 6
+							},
+							"role": "Development Team: Develop new modules with social networking API’s.",
+							"team_strength": 5,
+							"client": "Public Website ( Company’s own project ). Interacted with customers on issues from different countries.",
+							"others": "Used to develop prototypes for all API’s."
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "FREELANCER PROJECTS",
+			"projects": [
+				{
+					"company": "Freelancing",
+					"projects": [
+						{
+							"title": "Doyaara (doyaara.com)",
+							"description": "Doyaara is a trust for the needed ones found by the friends for the friends.",
+							"technologies": [
+								"Angular JS 1.5.8",
+								"HTML5/CSS3/Bootstrap 3",
+								"PHP 5.6.10",
+								"MySQL 5.0.95"
+							],
+							"duration": {
+								"years": 0,
+								"months": 1
+							},
+							"role": "Development Team: Develop Front end and Back end code and Deploy in the production environment.",
+							"team_strength": 3,
+							"client": "Public Website. Interacted with few clients for special requirements.",
+							"others": "Reviewed other developers’ codes."
+						},
+						{
+							"title": "Honey Bee Quilling (honeybeequilling.likesyou.org)",
+							"description": "Honey Bee Quilling is a quilling gallery website for a quilling hobbist to promote and share their products.",
+							"technologies": [
+								"Angular JS 1.4.8",
+								"HTML4/HTML5",
+								"CSS2/CSS3",
+								"Bootstrap 3",
+								"PHP 5.6.10",
+								"Facebook Graph API"
+							],
+							"duration": {
+								"years": 0,
+								"months": 1
+							},
+							"role": "Development Team: Develop a single page application to retrieve all data from Facebook using API.",
+							"team_strength": 1,
+							"client": "Honey Bee Quilling ( Home based shop in India ). Interacted with client for project.",
+							"others": "Developed first AngularJS site and Facebook Graph API."
+						},
+						{
+							"title": "Fix Your PC (fixyourpc.my-webs.org)",
+							"description": "Fix Your PC teaches you how to troubleshoot any PC model in 10 minutes.",
+							"technologies": [
+								"PHP 5.3.28",
+								"HTML4",
+								"CSS2",
+								"MySQL 5.0.95",
+								"Google Ads"
+							],
+							"duration": {
+								"years": 0,
+								"months": 1
+							},
+							"role": "Development Team: Develop a single page website and a quiz contest.",
+							"team_strength": 1,
+							"client": "Click IT Academy ( Hardware teaching institute in India ). Interacted with client for project.",
+							"others": "Developed first website and web application."
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "PERSONAL PROJECTS",
+			"projects": [
+				{
+					"company": "Personal",
+					"projects": [
+						{
+							"title": "Money Manager (bigjapps.com/moneymanager)",
+							"description": "Money Manager helps to manager our day-to-day expenses online with the help of graphical representations.",
+							"technologies": [
+								"Angular JS 1.5.8",
+								"HTML5/CSS3/Bootstrap 3",
+								"PHP 5.6.10/ MySQL 5.0.95",
+								"Facebook Graph API"
+							],
+							"duration": {
+								"years": 0,
+								"months": 3
+							},
+							"role": "Development Team: Develop Front end and Back end code and Deploy in the production environment.",
+							"team_strength": 3,
+							"client": "Public Website. Interacted with few clients for special requirements.",
+							"others": "Reviewed other developers’ codes."
+						}
+					]
+				}
+			]
+		}
+	]
+}

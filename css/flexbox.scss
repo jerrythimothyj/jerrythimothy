@@ -9,14 +9,14 @@
   display: flex;
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
-}
 
-.flex-item {
-  padding: 5px;
-  min-width: 200px;
-  margin-top: 10px;
-  color: white;
-  font-weight: bold;
-  font-size: 3em;
-  text-align: center;
+  .flex-item {
+    padding: 5px;
+    min-width: 200px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
 }
